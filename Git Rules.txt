@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Bunnydavid27/Spotify_data_analy_aws_ETL.git
+git commit -m "updated"
